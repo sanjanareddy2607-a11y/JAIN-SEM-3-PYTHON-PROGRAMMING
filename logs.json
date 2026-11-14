@@ -1,0 +1,33 @@
+
+[
+    {
+        "Timestamp": "10:00",
+        "Log Level": "INFO",
+        "Message": "Application started"
+    },
+    {
+        "Timestamp": "10:05",
+        "Log Level": "WARNING",
+        "Message": "Low memory"
+    },
+    {
+        "Timestamp": "10:10",
+        "Log Level": "ERROR",
+        "Message": "Database connection failed"
+    },
+    {
+        "Timestamp": "10:15",
+        "Log Level": "INFO",
+        "Message": "User logged in"
+    },
+    {
+        "Timestamp": "10:20",
+        "Log Level": "ERROR",
+        "Message": "File not found"
+    },
+    {
+        "Timestamp": "10:25",
+        "Log Level": "INFO",
+        "Message": "Application closed"
+    }
+]
